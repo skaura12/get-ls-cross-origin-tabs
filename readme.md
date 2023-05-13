@@ -3,11 +3,15 @@ Steps to start the project
 **npm install**
 
 Open one terminal window and execute the following command
+
 **npm run serve-parent**
+
 This will start the parent app at port 3000.
 
 Open another terminal window and execute the following command
+
 **npm run serve-child**
+
 This will start the Child app at port 5000.
 
 
