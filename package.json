@@ -1,0 +1,15 @@
+{
+  "name": "get-ls-in-tabs",
+  "version": "1.0.0",
+  "description": "Assignment to get local storage across cross origin tabs",
+  "main": "index.js",
+  "scripts": {
+    "serve-child": "cd ./child && node server.js",
+    "serve-parent": "cd ./parent && node server.js"
+  },
+  "author": "Sandeep Kaura",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
