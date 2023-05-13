@@ -1,6 +1,6 @@
 Steps to start the project
-**
-npm i**
+
+**npm install**
 
 Open one terminal window and execute the following command
 **npm run serve-parent**
